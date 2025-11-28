@@ -126,13 +126,3 @@ button:hover {
     border-bottom: 1px solid #333;
 }
 
-.navbar a {
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-.navbar a:hover {
-    color: #00eaff;
-}
