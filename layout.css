@@ -103,5 +103,32 @@ nav ul ul li a:hover {
                 height: auto;
             }
         }
+html, body {
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 
+•⁠  ⁠{
+  background-color: transparent;
+  color: inherit;
+}
 
+.product-container,
+.container,
+.wrapper {
+  background-color: #000000;
+  color: white;
+}
+
+.card, .product-card, .item {
+  background-color: #111111;
+  color: white;
+  border: 1px solid #333;
+}
+
+img {
+  background-color: transparent !important;
+}
