@@ -74,17 +74,15 @@ nav ul ul li a:hover {
             width:100%;
             background-color: #f1f1f1;
             height: 600px;
-            /* hanya untuk contoh saja */
         }
  
-        /* Clear floats after the columns */
         section:after {
             content: "";
             display: table;
             clear: both;
         }
  
-        /* Style the footer */
+
         footer {
             background-color: green;
             padding: 5px;
@@ -92,7 +90,6 @@ nav ul ul li a:hover {
             color: white;
         }
  
-        /* Responsive layout - buat 2 kolom/kotak */
         @media (max-width: 600px) {
  
             nav,
@@ -101,3 +98,4 @@ nav ul ul li a:hover {
                 height: auto;
             }
         }
+
